@@ -7,7 +7,7 @@
 1. http://sypexgeo.net/
 1. http://geobaza.ru/
 
-## Databases low resolugion (free)
+## Databases low resolution (free)
 
 1. https://db-ip.com/db/
 1. http://software77.net/geo-ip/
