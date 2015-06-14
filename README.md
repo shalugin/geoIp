@@ -1,21 +1,38 @@
 # geoIp
 
-01. https://www.maxmind.com/
-02. http://ipinfodb.com/ip_location_api.php
-03. https://db-ip.com/db/
-04. http://lite.ip2location.com
-05. http://software77.net/geo-ip/
-06. http://freegeoip.net/ (https://github.com/fiorix/freegeoip)
-07. http://ipgeobase.ru/cgi-bin/Archive.cgi
-08. http://ba-za.net/baza-geoip-strany-i-goroda/
-09. http://www.ashmanov.com/tech/geo
-10. http://www.ip2location.com/developers.aspx#commercial
-11. http://ipinfo.io
-12. http://www.telize.com
-13. http://bric.lepus.uberspace.de:61165
-14. https://oo.bootes.uberspace.de
-15. http://www.geobytes.com/IpLocator.htm
-16. http://www.quova.com/
-17. http://www.iplocation.net/
-18. http://geoip.elib.ru
-19. http://www.ipligence.com
+## Databases
+
+1. https://www.maxmind.com/
+1. http://ipinfodb.com/ip_database.php (http://lite.ip2location.com, http://www.ip2location.com/)
+1. http://sypexgeo.net/
+1. http://geobaza.ru/
+
+## Databases low resolugion (free)
+
+1. https://db-ip.com/db/
+1. http://software77.net/geo-ip/
+1. http://ipgeobase.ru/cgi-bin/Archive.cgi (good for Russia, Ukraina, Republic of Belarus)
+1. http://ba-za.net/baza-geoip-strany-i-goroda/
+1. http://www.ipligence.com (no free version)
+
+## HTTP API
+
+1. http://freegeoip.net/ (https://github.com/fiorix/freegeoip)
+1. http://www.ashmanov.com/tech/geo (http://www.geodb.ru/)
+1. http://ipinfo.io
+1. http://www.telize.com
+1. http://www.geobytes.com/IpLocator.htm
+1. http://www.quova.com/
+1. http://www.ipaddresslabs.com/IP-GeoLoc-ip-address-geolocation-locator-lookup-database-software-geography-country-region-state-county-province-city-postal-zip-code-metro-area-code-latitude-longitude@IP-GeoLoc
+1. http://geoip.elib.ru
+
+## Other
+
+1. http://bric.lepus.uberspace.de:61165 (https://oo.bootes.uberspace.de)
+1. http://www.iplocation.net/
+1. http://www.geoip.co.uk/
+1. https://geoiptool.com/
+
+## References
+
+1. http://www.geonames.org/
